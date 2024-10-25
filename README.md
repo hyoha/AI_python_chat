@@ -1,1 +1,1 @@
-# AI_python_chat
+# AI_Python_Lotto
