@@ -4,7 +4,8 @@ import random
 import os
 from sklearn.linear_model import LinearRegression
 import numpy as np
-
+# 무작위의 로또 당첨번호 5자리를 추출하면서 확률 까지 계산해서 보여줌
+# 전처리 pandas , numpy, pip 환경 설정후 스크립트 만으로 동작
 # 데이터 파일 경로
 file_path = 'C:/Wokrspace/PycharmProjects/pythonProject/sample/lotto.txt'
 
